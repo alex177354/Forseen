@@ -73,8 +73,13 @@ var l_bgImageMapBased = false;
 // (You can also use external URL)
 var l_bgImages = [
 	"oi1.jpg",
-	"oi2.jpg",
-	"oi3.jpg"
+	"oi2.png",
+	"oi3.jpg",
+	"oi4.png",
+	"oi5.jpg",
+	"oi6.png",
+	"oi7.jpg",
+	"oi8.jpg",
 ];
 
 // (Image-background only)
@@ -113,7 +118,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "Kylo Ren's Theme.mp3", name: "Kylo Ren's theme"},
+	{ogg: "music.ogg", name: "Star Wars the Clone Wars - A Galaxy Divided"},
 ];
 
 // Random music order?
@@ -130,7 +135,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Enjoy the server",
+	"Hope You Enjoy the server",
 	"Thanks for joining us!",
 	"If you have any problems please report them to the staff",
 ];
